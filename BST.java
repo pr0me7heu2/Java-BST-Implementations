@@ -1,9 +1,3 @@
-/*
- * Name:
- * GWU email:
- * 
- */
-
 package bstree;
 import java.util.Queue;
 import java.util.Stack;
